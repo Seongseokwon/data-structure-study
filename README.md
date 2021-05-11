@@ -2,10 +2,6 @@
 
 ## 자료구조
 
-- [Stack](#stack)
-
-<<<<<<< HEAD
-
 ### 선형 자료구조
 
 - [Stack](#stack)
